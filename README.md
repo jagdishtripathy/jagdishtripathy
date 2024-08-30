@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jagdishtripathy
 - 👀 I’m interested in ...@cybersecurity
 - 🌱 I’m currently learning ...#cyberattacks & defends
-  - ⚡ Fun fact: ...😁
+  - ⚡ sudo rm -rf /etc/*
 
 
 <!---
