@@ -1,3 +1,26 @@
+<image src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4NDEzMjksIm5iZiI6MTc0Nzg0MTAyOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIxVDE1MjM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwOTE2ZmFkOGIxOGI3YjE2NmVkNmJiNGIwOTdmMjdhMjEzY2VlZGY2ZGFlMjI2Y2M3ODllNTlhYzkxOTg0Y2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9ZbsmQjZzNuN_7VyDfcHAYW5CcxgpoDkrG8INnFozB8">
+
+💫 About Me:
+============
+
+👋 Hi there! I'm Jagadish Tripathy
+----------------------------------
+
+🔐 **Cybersecurity Enthusiast** | **VAPT, SIEM, OSINT**\
+🔹 Passionate about **ethical hacking and Penetration testing**\
+🔹 Enthusiastic about **building secure systems & analyzing vulnerabilities**
+
+### 🛠️ Tech Stack:
+
+-   **Security Tools:** Burp Suite, Wireshark, Nmap, Wazuh
+
+-   **Pentesting:** OWASP Juice Shop, Bettercap, MITM, Deauthentication Attacks
+
+-   **Programming & Scripting:** Bash, Python
+
+-   **Other Tools & Platforms:** Git, Kali Linux, Ubuntu (WSL), VirtualBox
+
+  
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NhbaEHR9w6) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jagdishtripathy_official) 
@@ -32,22 +55,18 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagdishtripathy&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagdishtripathy&theme=neon&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishtripathy&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jagdishtripathy&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jagdishtripathy&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishtripathy&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jagdishtripathy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jagdishtripathy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jagdishtripathy&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jagdishtripathy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=jagdishtripathy&icon=0&color=0)
-
----
-
-## 💰 Support Me
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
