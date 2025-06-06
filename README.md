@@ -66,7 +66,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jagdishtripathy&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=jagdishtripathy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧪cyberdefenders:
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/jagadishtripathy.png" width="300" />
